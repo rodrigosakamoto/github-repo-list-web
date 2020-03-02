@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/rodrigosakamoto/GoStack-modulo05.git
+$ git clone https://github.com/rodrigosakamoto/GoStack-GitApi-ReactJS.git
 
 # e em seguida execute:
 
