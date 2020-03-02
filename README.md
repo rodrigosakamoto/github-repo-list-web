@@ -22,7 +22,7 @@ $ git clone https://github.com/rodrigosakamoto/GoStack-modulo05.git
 
 # e em seguida execute:
 
-$ cd GoStack-modulo05
+$ cd GoStack-GitApi-ReactJS
 $ yarn
 $ yarn start
 ```
